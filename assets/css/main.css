@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Rokkitt');
+*{
+/*	outline: 1px solid red;
+*/	padding: 0;
+	margin: 0;
+/*	box-sizing: border-box;
+*/}
+.navbar-brand{
+  font-family: 'Rokkitt', serif;
+  font-size: 40px;
+
+}
+hr{
+	width: 50px;
+	color: black;
+	border: 3px solid black;
+	position: absolute;
+}
+p{
+	font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+#select{
+	background: #ccc;
+	width: 300px;
+}
+.fondo-plomo{
+	background: #333;
+	width: 400px;
+	padding: 30px;
+	margin: 5px;
+}
+button{
+margin-top: 15px;
+}
